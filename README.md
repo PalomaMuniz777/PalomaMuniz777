@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PalomaMuniz777
-- 👀 I’m interested in AI | Análise de Dados | Back-End | Python
+- 👀 I’m interested in AI | Análise de Dados | Python
 - 🌱 I’m currently learning ... Análise e Desenvolvimento de Sistemas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
